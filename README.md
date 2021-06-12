@@ -13,8 +13,8 @@ Month of June & December data summary is as following image.
 
 
 ## Summary
-Based on the summary it seems like Oahu's weather temp is pretty suitable for Surf shop and Ice cream buisness. Because average June and December temp are 75 and 71, where both are higher than 70.
-In addition to Temp data, precipition level would be good factor to be considered for our analysis. 
+Based on the summary it seems like Oahu's weather temp is pretty suitable for Surf shop and Ice cream buisness. Because average June and December temp are 75 and 71, where both are higher than 70.\
+In addition to Temp data, precipition level would be good factor to be considered for our analysis.\
 Precipition level can be filterd as following
 ```
 session.query(Measurement.date, Measurement.prcp).filter(extract('month',         Measurement.date) == 6).all()
