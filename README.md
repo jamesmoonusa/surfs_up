@@ -4,5 +4,9 @@
 Analysing data for W.Avy who want to open surf shop and ice cream business in Oahu. Client is focusing on June and Decemeber Temperature for his business to see if Temperature is sustainable for those businesses. 
 
 ## Results:
+Month of June & December data summary is as following image.
 ![June Temp Summary](https://github.com/jamesmoonusa/surfs_up/blob/main/june_temp_summary.PNG)
 ![December Temp Summary](https://github.com/jamesmoonusa/surfs_up/blob/main/dec_temp_summary.PNG)
+
+## Summary
+
