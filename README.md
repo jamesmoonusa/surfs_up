@@ -17,7 +17,7 @@ Based on the summary it seems like Oahu's weather temp is pretty suitable for Su
 In addition to Temp data, precipition level would be good factor to be considered for our analysis.\
 Precipition level can be filterd as following
 ```
-session.query(Measurement.date, Measurement.prcp).filter(extract('month',         Measurement.date) == 6).all()
+session.query(Measurement.date, Measurement.prcp).filter(extract('month', Measurement.date) == 6).all()
 session.query(Measurement.date, Measurement.prcp).filter(extract('month', Measurement.date) == 12).all()
 
 ```
