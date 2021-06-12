@@ -5,3 +5,4 @@ Analysing data for W.Avy who want to open surf shop and ice cream business in Oa
 
 ## Results:
 ![June Temp Summary](https://github.com/jamesmoonusa/surfs_up/blob/main/june_temp_summary.PNG)
+![December Temp Summary](https://github.com/jamesmoonusa/surfs_up/blob/main/dec_temp_summary.PNG)
